@@ -10,7 +10,7 @@
 
 ## Update
 
-- [`2022/3/23] - vscode配置代码检查环境
+- [`2022/3/23`] - vscode配置代码检查环境
   - [vscode代码规范配置](/vscode-preference.md)
   - 微调代码规范markdown格式
   
@@ -25,6 +25,6 @@
 ## reference
 
 - [代码检查工具](https://www.cnblogs.com/ShiNiba/p/12883602.html)
-- [cpplint的高级用法](<https://zhuanlan.zhihu.com/p/79913216>
+- [cpplint的高级用法](https://zhuanlan.zhihu.com/p/79913216)
 - [vscode+cpplint插件](https://blog.csdn.net/qq_41071754/article/details/119189213)
 - [vscode+pylint(python代码规范)](https://code.visualstudio.com/docs/python/linting)
