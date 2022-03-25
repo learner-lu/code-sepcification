@@ -13,14 +13,14 @@
      "Print to console": {
       "prefix": "cpy", // 快捷键
       "body": [
-       "/**",
+       "/*",
        " *Copyright (c) ${CURRENT_YEAR} All rights reserved",
        " *@description: $1",  // 按一下 tab 自动跳转到这里
        " *@author: Zhixing Lu",
        " *@date: ${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE}",
        " *@email: luzhixing12345@163.com",
        " *@Github: luzhixing12345",
-       " */",
+       "*/",
        ""
        ],
       "description": "copyright snippets"
